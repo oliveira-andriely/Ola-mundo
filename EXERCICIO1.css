@@ -1,0 +1,29 @@
+body {
+    background-image: url(https://images-cdn.welcomesoftware.com/Zz04ZjQ2ZjYxYTE2MjQxMWVjYWFiYzJiZTZiNzk4YTZhOQ==?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOlsiOGY0NmY2MWExNjI0MTFlY2FhYmMyYmU2Yjc5OGE2YTkiXSwiZXhwIjoxNjMyMDE1NzE4fQ.lhLqZdv42CDd-xmY0lH-2I8dUAHxW7zMFEQVGaesp20);
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+h1{
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/2840500-fundo-roxo-abstrato-com-linhas-vetor.jpg);
+    color: azure;
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    border-style: double;
+}
+
+h2, ul, ol{
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/2840500-fundo-roxo-abstrato-com-linhas-vetor.jpg);
+    color: black;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: groove;
+    border-color: aliceblue;
+}
+
+img {
+    border-style: outset;
+    border-color: blueviolet;
+    border-width: 20px;
+}
